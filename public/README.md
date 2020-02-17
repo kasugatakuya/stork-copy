@@ -32,6 +32,6 @@ WordPressのテーマであるSTORKの模写コーディング(個人制作)
 ### URL：[https://stork-copy.firebaseapp.com/#](https://stork-copy.firebaseapp.com/#)
 <br></br>
 
-## 参考元サイト(STORK)はこちら
+### 参考元サイト(STORK)はこちら
 ### URL：[https://demo-stork.open-cage.com/](https://demo-stork.open-cage.com/)
 
