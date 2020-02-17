@@ -7,8 +7,6 @@ WordPressのテーマであるSTORKの模写コーディング(個人制作)
 メディアクエリを使った、レスポンシブ対応。jQueryを使用しハンバーガーメニューや複数表示スライドショーやドロップダウンメニューやページ内遷移機能や検索モーダルなどを実装。
 
 ## :memo:概要
-アプリ名：Portfolio
-<br></br>
 使用言語：HTML/CSS/Ruby/Rails/JavaScript/jQuery/heroku/Github/Visual Studio Code
 <br></br>
 レスポンシブ対応
