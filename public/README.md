@@ -26,5 +26,12 @@ WordPressのテーマであるSTORKの模写コーディング(個人制作)
 作業期間：約3日
 
 ## :earth_africa:URL
+
+
+### 「STORKの模写」はこちら
 ### URL：[https://stork-copy.firebaseapp.com/#](https://stork-copy.firebaseapp.com/#)
+<br></br>
+
+## 参考元サイト(STORK)はこちら
+### URL：[https://demo-stork.open-cage.com/](https://demo-stork.open-cage.com/)
 
