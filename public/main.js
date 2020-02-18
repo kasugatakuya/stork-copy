@@ -21,10 +21,11 @@ $(function() {
     $('html,body').animate({scrollTop:0}, 300);
   });
   
+});
 
-  let toptitle = $(".head__main__title")
-  toptitle.hide();
-  toptitle.slideDown();
+// フワッと出るタイトル
+$(function() {
+  
 });
 
 

@@ -6,16 +6,21 @@
   <link rel="stylesheet" href="copy.css">
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="media.css">
+  <link rel="stylesheet" href="anime.css">
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" 
   rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,500,900&amp;subset=japanese" rel="stylesheet">
   <script src="main.js"></script>
   <script src="drop.js"></script>
+  <script src="js/wow.js"></script>
   <link href="js/slick-theme.css" rel="stylesheet" type="text/css">
   <link href="js/slick.css" rel="stylesheet" type="text/css">
   <script type="text/javascript" src="js/slick.min.js"></script>
   <title>STORK-COPY</title>
+  <script>
+    new WOW().init();
+  </script>
 </head>
 <body>
   <head>
@@ -79,13 +84,13 @@
       </div>
       <div class="head__main">
         <div class="head__main__text">
-          <div class="head__main__title">
+          <div class="head__main__title wow fadeInDown" data-wow-duration="2s">
             Happy WordPress Blog
           </div>
-          <div class="head__main__subtitle">
+          <div class="head__main__subtitle wow fadeInUp" data-wow-duration="4s">
             幸せを運ぶWordPressテーマ「ストーク (こうのとり)」
           </div>
-          <button class="head__main__btn">
+          <button class="head__main__btn wow fadeInUp" data-wow-duration="6s">
             テーマ詳細ページへ
           </button>
         </div>
